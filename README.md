@@ -1,9 +1,9 @@
 # Sandboxels
 A falling sand simulation game.
 
-Play at [Sandboxels.R74n.com](https://sandboxels.r74n.com/).
+Play at [Sandboxels.R74n.com](https://sandboxels.org/).
 
-Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
+Join the [Discord server]().
 
 ![Landscape made in Sandboxels](https://raw.githubusercontent.com/R74nCom/sandboxels/main/icons/wallpaper.png)
 
